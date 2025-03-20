@@ -27,7 +27,7 @@ public class IfElseProgram {
 		}
 		
 		else if (age >= 18) {
-			System.out.println(" you are adult");
+			System.out.println(" you are adult ");
 		}
 		
 		else if (age >= 10) {

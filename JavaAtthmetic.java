@@ -24,6 +24,19 @@ public class JavaAtthmetic {
 				//int f = d/=e ;
 				int f = d %= e;
 				System.out.println(f);
+				
+				System.out.println("Increement Decrement operator");
+				
+				System.out.println("Increment Operator");
+				int g= 10;
+				int h = ++g;
+				
+				System.out.println(h);
+				
+				System.out.println("Decrement Operator");
+				int i = 10;
+				int j = --i;
+				System.out.println(j);
 		
 	}
 

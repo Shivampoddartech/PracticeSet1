@@ -43,14 +43,14 @@ public class PersonalInformation {
 //		System.out.println("Enter Your Name" + name);
 //		System.out.println("Enter Your Age" + age);
 //		System.out.println("Date Of Birth" + DOB);
-//		System.out.println("Your Higest Qualification" + Qualification);
+//		System.out.println("Your Highest Qualification" + Qualification);
 //		System.out.println("Enter yours Marks" + marks);
-//		System.out.println("Any Previos Experience (Yes/ No)" + Experience);
+//		System.out.println("Any Previous Experience (Yes/ No)" + Experience);
 //		System.out.println("How Many Years Of Work Experience" + WorkExperience);
 //		System.out.println("Your Current CTC" + CurrentCTC);
 //		System.out.println("Your exceptation In CTC" + Yourexceptation);
-//		System.out.println(" Are You Immeditely Avaiable  With in 15 Days" + ImmeditelyAvaiable);
-//		System.out.println("Thankyou For Showing Intrest ..." + ThankyouMassage);
+//		System.out.println(" Are You Immediately Available  With in 15 Days" + ImmeditelyAvaiable);
+//		System.out.println("Thankyou For Showing Interest ..." + ThankyouMassage);
 
 	}
 }
